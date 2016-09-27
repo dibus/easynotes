@@ -1,0 +1,5 @@
+org/dibus/easynotes/DatabaseLoader.class
+org/dibus/easynotes/Application.class
+org/dibus/easynotes/controllers/MainController.class
+org/dibus/easynotes/notes/Note.class
+org/dibus/easynotes/notes/NoteRepository.class
