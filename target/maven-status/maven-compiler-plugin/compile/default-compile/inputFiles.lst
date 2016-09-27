@@ -1,0 +1,5 @@
+/home/arnaud/dev/easynotes/src/main/java/org/dibus/easynotes/Application.java
+/home/arnaud/dev/easynotes/src/main/java/org/dibus/easynotes/notes/Note.java
+/home/arnaud/dev/easynotes/src/main/java/org/dibus/easynotes/controllers/MainController.java
+/home/arnaud/dev/easynotes/src/main/java/org/dibus/easynotes/DatabaseLoader.java
+/home/arnaud/dev/easynotes/src/main/java/org/dibus/easynotes/notes/NoteRepository.java
